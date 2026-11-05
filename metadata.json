@@ -1,0 +1,6 @@
+{
+  "name": "Station View Tavern | Luxury Irish Gastropub & Bar in Cork",
+  "description": "Station View Tavern at 87 Lower Glanmire Rd, Montenotte, Cork. Experience premium food, artisanal drinks, warm Irish hospitality, and easy online table booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
